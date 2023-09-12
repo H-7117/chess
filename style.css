@@ -1,0 +1,39 @@
+*{
+    background-color: antiquewhite;
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    border-spacing: 0; 
+    border-collapse: collapse;
+    padding: 50px;
+    
+}
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    border-radius: 5px;
+}
+td{
+    height: 50px;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.one{
+    background-color: white;
+    border: 1px solid black;
+    
+}
+.tow{
+    background-color: rgb(175, 121, 121);
+    border: 1px solid white;
+    
+}
